@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item
+        android:id="@+id/itemAdd"
+        android:showAsAction="ifRoom|withText"
+        android:title="Add">
+    </item>
+    <item
+        android:id="@+id/itemRefresh"
+        android:showAsAction="ifRoom|withText"
+        android:title="Refresh">
+    </item>
+    <item
+        android:id="@+id/itemHelp"
+        android:showAsAction="ifRoom|withText"
+        android:title="Help">
+    </item>
+    <item
+        android:id="@+id/itemTask"
+        android:showAsAction="ifRoom|withText"
+        android:title="Tasks">
+    </item>
+    <item
+        android:id="@+id/itemSave"
+        android:showAsAction="ifRoom|withText"
+        android:title="Save">
+    </item>
+    <item
+        android:id="@+id/itemQuit"
+        android:showAsAction="ifRoom|withText"
+        android:title="Quit">
+    </item>
+
+</menu>
